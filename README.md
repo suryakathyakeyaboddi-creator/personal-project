@@ -1,6 +1,6 @@
 # personal-project
 My personal lab purpose repo
-# Personal Project (read file) # Question 20 upoadtion of readme !
+# Personal Project (read file) # Question 20 updation of readme !
 
 This repository is created to practice Git and GitHub basics.
 
